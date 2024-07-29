@@ -6,3 +6,5 @@
 - [ArabicaQA](https://github.com/DataScienceUIBK/ArabicaQA#): High quality QA dataset contains negative questions
 - [KIND](https://huggingface.co/datasets/KIND-Dataset/Open-ended_Questions_dialectal_data): Dialectal data
 - [Catalog](https://medium.com/@amnahhmohammed/useful-arabic-datasets-for-machine-learning-engineers-working-in-nlp-d06ba6c5e96d): Multiple datasets
+# Resources
+- [Continued Pretraining](https://unsloth.ai/blog/contpretraining): Unsloth blog with Notebook
